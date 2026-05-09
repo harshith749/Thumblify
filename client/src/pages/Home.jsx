@@ -126,7 +126,7 @@ export default function Home() {
 
               {/* Main heading */}
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">
-                Create Professional <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">Thumbnails</span> in Seconds
+                Create Professionals <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">Thumbnails</span> in Seconds
               </h1>
 
               {/* Subtext describing the value proposition */}
